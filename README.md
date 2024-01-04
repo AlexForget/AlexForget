@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Forget</h1>
 <h3 align="center">Learning a little bit more every days</h3>
 
-- 🔭 I’m currently working on [to-do application with Flutter](https://github.com/AlexForget/to_do_app)
+- 🔭 I’m currently working on a [to-do application with Flutter](https://github.com/AlexForget/to_do_app)
 
 - 🌱 I’m currently learning **Flutter, Dart, Godot, GDScript**
 
