@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Forget</h1>
 <h3 align="center">Learning a little bit more every days</h3>
 
-- 🔭 I’m currently working on a [to-do application with Flutter](https://github.com/AlexForget/to_do_app) and learning the basic of game development with [flame engine](https://github.com/AlexForget/flutter_platform_game) 
+- 🔭 I’m currently working on a [to-do application with Flutter](https://github.com/AlexForget/to_do_app) and learning the basic of game development with [godot engine](https://github.com/AlexForget/plateformerNoName) 
 
 - 🌱 I’m currently learning **Flutter, Dart, Flame, Godot, GDScript**
 
